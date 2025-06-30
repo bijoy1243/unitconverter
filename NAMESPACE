@@ -1,0 +1,6 @@
+export(C_to_F)
+export(F_to_C)
+export(cm_to_inches)
+export(inches_to_cm)
+export(kg_to_lbs)
+export(lbs_to_kg)

@@ -97,3 +97,11 @@ kg_to_lbs(70)
 ## 📄 License
 MIT
 
+---
+
+![R](https://img.shields.io/badge/Made_with-R-276DC3)
+![testthat](https://img.shields.io/badge/Tested_with-testthat-1f425f)
+![CS50](https://img.shields.io/badge/CS50R-Project-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
